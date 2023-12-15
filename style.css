@@ -1,7 +1,6 @@
 body{
-    background-color:black ;
+    background: black;
 }
-
 .card{
     background-image: url(./card.png);
     width: 1230px;
@@ -9,27 +8,28 @@ body{
     margin: 0 auto;
 }
 
-.holiday{
+.text-1{
+    font-family: 'Montserrat', sans-serif;
     color: #A0ABAA;
-
-    font-family: Montserrat;
     font-size: 30px;
-    font-style: normal;
     font-weight: 500;
-    line-height: normal;
     text-transform: uppercase;
+    padding-left: 140px;
+    padding-top: 163px;
 }
 
-.holiday-p{
+.text-2{
+    font-family: 'Montserrat', sans-serif;
     color: #A0ABAA;
-    font-family: Montserrat;
     font-size: 30px;
-    font-style: normal;
     font-weight: 500;
-    line-height: normal;
     text-transform: uppercase;
+    padding-top: 301px;
+    padding-left: 200px;
+    margin-bottom: 0;
 }
 
-.logo{
-    padding-left: 779px;
+.logotip{
+    padding-left: 315px;
+    padding-top: 25px;
 }

@@ -1,0 +1,35 @@
+body{
+    background-color:black ;
+}
+
+.card{
+    background-image: url(./card.png);
+    width: 1230px;
+    height: 693px;
+    margin: 0 auto;
+}
+
+.holiday{
+    color: #A0ABAA;
+
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.holiday-p{
+    color: #A0ABAA;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.logo{
+    padding-left: 779px;
+}
